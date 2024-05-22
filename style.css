@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    margin:50px auto;
+    border-radius: 5%;
+}
+#main_btn{
+    border-radius: 5%;
+    border: transparent ;
+    background-color: red;
+}
